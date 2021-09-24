@@ -1,0 +1,13 @@
+url:
+  mail:
+    main: https://mail.ru
+
+user:
+  login: test.testov.983425
+  password: RE2rAU3&apuz
+
+pages:
+  login:
+    title: "Mail.ru: почта, поиск в интернете, новости, игры"
+  inbox:
+    title: "Входящие - Почта Mail.ru"
