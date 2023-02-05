@@ -1,4 +1,4 @@
-package test.task.mail;
+package test.task.mail.selectors;
 
 import org.openqa.selenium.By;
 

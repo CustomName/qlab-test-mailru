@@ -1,13 +1,12 @@
-url:
-  mail:
-    main: https://mail.ru
+selenide:
+  browser: "chrome"
 
-user:
-  login: test.testov.983425
-  password: RE2rAU3&apuz
+url:
+  yandex:
+    main: https://ya.ru
 
 pages:
   login:
-    title: "Mail.ru: почта, поиск в интернете, новости, игры"
+    title: "Яндекс"
   inbox:
-    title: "Входящие - Почта Mail.ru"
+    title: "Яндекс: наш"
